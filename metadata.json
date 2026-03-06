@@ -1,0 +1,5 @@
+{
+  "name": "PayslipFlow Admin Portal",
+  "description": "A professional salary slip management system for admins to upload employee data, generate payslips, and gain financial insights.",
+  "requestFramePermissions": []
+}
